@@ -15,5 +15,8 @@
 - **Serie 0:** https://youtu.be/8aYh_VnrK0E  
 - **Serie 1:** https://youtu.be/qska146XBSg
 
+- **Serie 5:** https://youtu.be/ZszRp9CAVXw
+  https://youtu.be/Sv-C7VFKgwA
+
 > **Sugerencia:** Te recomiendo subir el volumen al reproducir los videos; el audio se escucha bajo porque mi micrófono no es muy bueno.  
 > **Recordatorio:** Al finalizar, por favor baja el volumen para evitar molestias.
