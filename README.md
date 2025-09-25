@@ -14,9 +14,9 @@
 
 - **Serie 0:** https://youtu.be/8aYh_VnrK0E  
 - **Serie 1:** https://youtu.be/qska146XBSg
-- **Serie 2:** 
+- **Serie 2:** https://youtu.be/G5eeruB0JM8   y   https://youtu.be/uz889Aw0iUY
 - **Serie 3:** Se cancelo esta serie.
-- **Serie 4:** https://youtu.be/Sv-C7VFKgwA y https://youtu.be/ZszRp9CAVXw
+- **Serie 4:** https://youtu.be/Sv-C7VFKgwA   y   https://youtu.be/ZszRp9CAVXw
   
 
 > **Sugerencia:** Te recomiendo subir el volumen al reproducir los videos de la serie 0 y serie 1; el audio se escucha bajo porque mi micrófono no es muy bueno.  
