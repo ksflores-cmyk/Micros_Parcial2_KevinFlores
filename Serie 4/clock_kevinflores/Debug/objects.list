@@ -1,0 +1,4 @@
+"./Src/seven_segments.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32l053r8tx.o"

@@ -1,0 +1,15 @@
+../Src/seven_segments.c:129:23:alarm_match	5
+../Src/seven_segments.c:138:20:alarm_set	1
+../Src/seven_segments.c:151:20:am_led_on	1
+../Src/seven_segments.c:152:20:am_led_off	1
+../Src/seven_segments.c:154:20:am_led_init	1
+../Src/seven_segments.c:163:20:am_led_update	2
+../Src/seven_segments.c:190:20:FormatButton_Update_10ms	6
+../Src/seven_segments.c:207:20:GetDisplayHours	3
+../Src/seven_segments.c:236:20:alarm_led_on	1
+../Src/seven_segments.c:237:20:alarm_led_off	1
+../Src/seven_segments.c:240:20:alarm_led_init	1
+../Src/seven_segments.c:248:20:alarm_action	1
+../Src/seven_segments.c:259:5:main	20
+../Src/seven_segments.c:463:6:delay_ms	3
+../Src/seven_segments.c:471:9:parser	11
